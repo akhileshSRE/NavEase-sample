@@ -1,4 +1,6 @@
 {
   "google" : "https://www.google.com",
-  "yahoo": "https://www.yahoo.com"
+  "yahoo": "https://www.yahoo.com",
+  "github": "https://github.com",
+  "youtube": "https://youtube.com"
 }
